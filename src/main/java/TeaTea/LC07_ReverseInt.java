@@ -25,6 +25,7 @@ public class LC07_ReverseInt {
             x /= 10;
         }
 
+        //测试
         return res;
     }
 }
