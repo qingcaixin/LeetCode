@@ -50,6 +50,10 @@ public class PhoneNumber {
           PhoneNumber phoneNumber = new PhoneNumber();
           List<String> list = phoneNumber.letterCombinations("234");
           System.out.println(list);
+
+          String sss = "abcde";
+          char c = sss.charAt(2);
+          System.out.println(c);
      }
 
 
